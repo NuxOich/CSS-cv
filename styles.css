@@ -92,7 +92,7 @@ box-sizing: border-box;
 }
 
 .card {
-    padding: 10px 20px;
+    padding: 10px 10px;
     margin-bottom: 20px;
     border-radius: 20px;
 
@@ -110,13 +110,21 @@ box-sizing: border-box;
     }
 }
 
-
 .info-text {
     margin-left: 40px;
 }
 
 .info-text p {
     margin-top: 70px;
+}
+
+.experience li {
+    padding: 7px;
+}
+
+.experience p {
+    margin: 20px;
+    
 }
 
 .card h2 {
